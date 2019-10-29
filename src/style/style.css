@@ -1,0 +1,33 @@
+body{
+    background-color:#add8e6 !important;
+    padding : 20px;
+  }
+  
+  h1, p {
+    font-family: Lato;
+  }
+  
+  .homepic {
+    border-radius: 50px;
+    
+  }
+  
+  .partialDivView{
+  
+   padding: 10px;
+   align-items: center
+   
+  
+  }
+  .Linksyle{
+    color: blue;
+    cursor:pointer
+  
+  }
+  
+  .frontDiv{
+   padding-top: 150px;
+    padding-left: 150px;
+    padding-right: 50px;
+  
+  }
